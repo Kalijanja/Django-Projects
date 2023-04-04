@@ -22,6 +22,6 @@ urlpatterns = [
     path("", include("App.urls")),
     path("newyear/", include("Newyear.urls")),
     path("christmas/", include("ChristmasApp.urls")),
-    path("app2/", include("App2.urls"))
+    path("app2/", include("App2.urls")),
 
 ]
