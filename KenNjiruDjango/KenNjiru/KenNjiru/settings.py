@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'Newyear',
     'ChristmasApp',
     'App2',
+    'StaticApp',
 ]
 
 MIDDLEWARE = [
@@ -116,7 +117,7 @@ USE_I18N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
+# static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = 'static/'
