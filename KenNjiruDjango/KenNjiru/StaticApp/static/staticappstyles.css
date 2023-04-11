@@ -1,16 +1,8 @@
-body{
+body {
     background-color: black;
     color: aqua;
 }
-
-.h{
-    text-align: center;
-    color: aqua;
-    font-family: Algerian, fangsong;
-    font-size: 20px;
-}
-.b{
-    margin: 20px auto;
-    padding: 20px;
-    font-family: cursive, sans-serif;
+h1{
+    color: black;
+    background-color: palevioletred;
 }
